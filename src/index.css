@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Mukta', sans-serif;
+    background-image: url(./Penguins.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10vh;
+    width: 100%;
+}
+
+/* .main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+    width: 30vw;
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0px 8px 32px 0 rgba(31, 98, 135 0.37) 
+    blockdrop-filter
+} */
+
+/* button{
+    margin: 1rem 0 2rem 0 ;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    width: 65%;
+    height: 3rem;
+    border: none;
+    color: white; 
+    border-radius: 2rem;
+    background: linear-gradient(to right, #141614 0%, #03217b 79%);
+} */
